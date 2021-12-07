@@ -44,10 +44,8 @@ about_content: | # this will include new lines to allow paragraphs
     -  Kĩ năng: <mark>C++</mark> and <mark>Team building</mark>
 content:
   - title: Lý tưởng sống # Title for the section
-    layout: list # Type of content section (list/text)
-    content: Venus9240
       - layout: left
-        title: 
+        title: Lý lịch bản thân trong sạch Phẩm chất đạo đức vững vàng Lý luận chính trị không ngừng nâng cao
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
