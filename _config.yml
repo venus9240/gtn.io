@@ -78,10 +78,10 @@ content:
   - title: Một chút ngoài lề nho nhỏ về mình
     layout: text
     content:
-      layout: left
-      title: Kĩ năng phụ
-      sub_title: *Team work*, *leadership*.<br>
-      description: *Mỗi người có những sở thích riêng, để giết thời gian, yêu chiều bản thân hay chỉ đơn giản là kéo bản thân lên từ hố đen trống rỗng trong tâm hồn *
+     - layout: left
+       title: Kĩ năng phụ
+       sub_title: *Team work*, *leadership*.<br>
+       description: *Mỗi người có những sở thích riêng, để giết thời gian, yêu chiều bản thân hay chỉ đơn giản là kéo bản thân lên từ hố đen trống rỗng trong tâm hồn *
       - Đọc sách
       - League of legends, CS:Go
       - Tìm hiểu về vũ trụ, thiên hà
