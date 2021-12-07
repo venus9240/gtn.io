@@ -46,10 +46,10 @@ content:
     layout: list
     content: 
       - layout: left
-        title: Lý lịch bản thân trong sạch Phẩm chất đạo đức vững vàng Lý luận chính trị không ngừng nâng cao
+        title: Sống là trải nghiệm
         quote: > 
         Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: 
         Ước mơ là một chuyện, năng lực là một chuyện khác. Trên hành trình sống của mỗi cá nhân đều là đang đi tìm phiên bản hoàn hảo nhất của chính mình,
            khẳng định được mình là ai, và mình có thể làm gì. 
 
