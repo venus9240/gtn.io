@@ -30,10 +30,10 @@ instagram_username: tn_9240
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
-# About Section
-- title: Chào bạn, cảm ơn vì đã click vào link này, và mình là một <mark>K16 UIT</mark>  # Title for the section
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
+# TN Section
+# TN_title: Chào bạn, cảm ơn vì đã click vào link này, và mình là một <mark>K16 UIT</mark> 
+TN_profile_image: Directory of profile image (eg. images/profile.jpg)
+TN_content: | # this will include new lines to allow paragraphs
  Mọi người xung quanh quen với việc gọi mình là <mark>Thanh Nga</mark> 
  và nếu được bạn cũng gọi mình như thế nhé. Ngoài ra <mark>Venus</mark> 
  là tên mình sử dụng trong các tổ chức mà mình tham gia.
