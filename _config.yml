@@ -43,7 +43,7 @@ about_content:  | # this will include new lines to allow paragraphs
     -  Kĩ năng: <mark>C++</mark> and <mark>Team building</mark>
 content:
   - title: Lý tưởng sống 
-    layout: text
+    layout: list
     content:
       - layout: left
         title: Sống để cải thiện
