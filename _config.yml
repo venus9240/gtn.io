@@ -75,9 +75,10 @@ content:
            "Xuất phát điểm có thể thấp nhưng không thể quyết định đích đến." 
         description: | # this will include new lines to allow paragraphs
           Là trường thành viên của ĐHQG-HCM, trường ĐH CNTT có nhiệm vụ đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao, góp phần tích cực vào sự phát triển của nền công nghiệp công nghệ thông tin Việt Nam, đồng thời tiến hành nghiên cứu khoa học và chuyển giao công nghệ thông tin tiên tiến, đặc biệt là hướng vào các ứng dụng nhằm góp phần đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.
-  - title: Một chút ngoài lề nho nhỏ về mình
+   - title: Một chút ngoài lề nho nhỏ về mình
     layout: text
-     *Mỗi người có những sở thích riêng, để giết thời gian, yêu chiều bản thân hay chỉ đơn giản là kéo bản thân lên từ hố đen trống rỗng trong tâm hồn *
+    content: | # this will include new lines to allow paragraph
+      *Mỗi người có những sở thích riêng, để giết thời gian, yêu chiều bản thân hay chỉ đơn giản là kéo bản thân lên từ hố đen trống rỗng trong tâm hồn*
       - Đọc sách
       - League of legends, CS:Go
       - Tìm hiểu về vũ trụ, thiên hà
