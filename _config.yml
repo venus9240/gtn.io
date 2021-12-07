@@ -41,17 +41,19 @@ about_content:  | # this will include new lines to allow paragraphs
     - Ngày sinh : 30/03/2003
     - Địa chỉ : Tánh Linh, Bình Thuận
     -  Kĩ năng: <mark>C++</mark> and <mark>Team building</mark>
+
 content:
   - title: Lý tưởng sống 
-   layout: list
+    layout: list
     content:
       - layout: left
-        title: Sống là trải nghiệm
+        title: Sống để cải thiện
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+ 
+ - title: Experience
     layout: list
     content:
       - layout: right
