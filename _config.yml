@@ -51,7 +51,7 @@ content:
         quote: >
           "Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng."
         description: | # this will include new lines to allow paragraphs
-          Ước mơ là một chuyện, năng lực là một chuyện khác. Trên hành trình sống của mỗi cá nhân đều là đang đi tìm **phiên bản hoàn hảo nhất** của chính mình, *khẳng định được mình là ai, và mình có thể làm gì.* 
+          Ước mơ là một chuyện, năng lực là một chuyện khác. Trên hành trình sống của mỗi cá nhân đều là đang đi tìm **phiên bản hoàn hảo nhất** của chính mình, khẳng định được mình là ai, và mình có thể làm gì.
   - title: Trải nghiệm xã hội
     layout: list
     content:
@@ -62,7 +62,7 @@ content:
         quote: >
           "Tuổi trẻ là cháy hết mình với đam mê, cống hiến để trưởng thành."
         description: | # this will include new lines to allow paragraphs
-          Với lợi thế là sự nhiệt huyết của tuổi trẻ, team chúng mình với các thành viên đủ mọi lứa tuổi luôn *sẵn sàng trong mọi tình huống, làm mọi việc có thể* với hi vọng đem đến tiếng cười và niềm vui cho những người đang thiếu. *Tuổi trẻ là cháy hết mình với đam mê, cống hiến cho cộng đồng với hi vọng phủ một gam màu tích cực lên cuộc sống đầy khó khăn thử thách.*
+          Với lợi thế là sự nhiệt huyết của tuổi trẻ, team chúng mình với các thành viên đủ mọi lứa tuổi luôn *sẵn sàng trong mọi tình huống, làm mọi việc có thể* với hi vọng đem đến tiếng cười và niềm vui cho những người đang thiếu. Tuổi trẻ là cháy hết mình với đam mê, cống hiến cho cộng đồng với hi vọng phủ một gam màu tích cực lên cuộc sống đầy khó khăn thử thách.
   - title: Trình độ học vấn
     layout: list
     content:
@@ -77,7 +77,7 @@ content:
   - title: Một chút ngoài lề nho nhỏ về mình
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Kĩ năng phụ** : *Team work*, *leadership*.</p>
+      - **Kĩ năng phụ** : *Team work*, *leadership*.<br>
       *Mỗi người có những sở thích riêng, để giết thời gian, yêu chiều bản thân hay chỉ đơn giản là kéo bản thân lên từ hố đen trống rỗng trong tâm hồn:*
       - Đọc sách
       - League of legends, CS:Go
