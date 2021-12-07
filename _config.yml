@@ -53,18 +53,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           Ước mơ là một chuyện, năng lực là một chuyện khác. Trên hành trình sống của mỗi cá nhân đều là đang đi tìm phiên bản hoàn hảo nhất của chính mình,
            khẳng định được mình là ai, và mình có thể làm gì. 
-  - title: Experience
+  - title: Kỹ năng mềm
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Team building
+        sub_title: Hoạt động xã hội & tổ chức chương trình khoá tu
+        caption: 2017 và sẽ tới khi không còn có thể
         quote: >
-          Short description of the company (optional)
+          "Tuổi trẻ là cháy hết mình với đam mê, cống hiến để trưởng thành."
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Với lợi thế là sự nhiệt huyết của tuổi trẻ, team chúng mình với các thành viên đủ mọi lứa tuổi sẵn sàng trong mọi tình huống, làm mọi việc có thể với hi vọng 
+        đem đến tiếng cười và niềm vui cho những người đang thiếu. Tuổi trẻ là cháy hết mình với đam mê, hoạt động vì cộng đồng để mang một gam màu tích cực cho cuộc sống.
   - title: Education
     layout: list
     content:
