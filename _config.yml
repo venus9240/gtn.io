@@ -77,7 +77,7 @@ content:
   - title: Một chút ngoài lề nho nhỏ về mình
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Kĩ năng phụ** : *Team work*, *leadership*.<br>
+      - Kĩ năng phụ: *Team work*, *leadership*.<br>
       *Mỗi người có những sở thích riêng, để giết thời gian, yêu chiều bản thân hay chỉ đơn giản là kéo bản thân lên từ hố đen trống rỗng trong tâm hồn:*
       - Đọc sách
       - League of legends, CS:Go
