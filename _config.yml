@@ -49,7 +49,7 @@ content:
       - layout: left
         title: Không ngừng cải thiện
         quote: >
-        "Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng."
+        Short overview of the project (optional)
        description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   
@@ -57,9 +57,9 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
+        title: Team Building
         sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        caption: 2017 và tới khi không còn có thể
         link: Link to company (optional)
         quote: >
           Short overview of the project (optional)
@@ -70,9 +70,9 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: VNUHCM-University of Information Technology
+        sub_title: Cử nhân Khoa học Máy Tính
+        caption: 2021-2025
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
