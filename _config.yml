@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
+name: Phạm Thị Nga
+title: Sinh viên Trường Đại học Công nghệ Thông tin - ĐHQG TPHCM
 email: Your email (optional)
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
