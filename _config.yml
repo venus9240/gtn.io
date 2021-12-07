@@ -45,15 +45,14 @@ about_content:  | # this will include new lines to allow paragraphs
 content:
   - title: Lý tưởng sống 
     layout: list
-    content:
+    content: 
       - layout: left
-        title: Sống là không ngừng tiến bộ
+        title: MATAOTUK
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
- 
- - title: Experience
+  - title: Experience
     layout: list
     content:
       - layout: right
@@ -84,27 +83,6 @@ content:
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
-
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
