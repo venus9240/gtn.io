@@ -1,10 +1,8 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: images/NgaPt.png
-
 # Content configuration version
 version: 2
-
 # Personal info
 name: Phạm Thị Nga
 title: Computer Science | Trường ĐH Công nghệ Thông Tin - ĐHQG TPHCM
@@ -14,34 +12,28 @@ phone: 0865128854
 # phone_title: Phone (Phone title override)
 website: https://github.com/venus9240/
 # website_title: Web (Website title override)
-
 # Dark Mode (true/false/never)
 darkmode: false
-
 # Social links
 github_username:  venus9240
 facebook_username: R9240
 instagram_username: tn_9240
-
-
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
-
 # About Section
-about_title:  Chào bạn, cảm ơn vì đã click vào link này, và mình là một <mark>K16 UIT</mark>
+about_title:  Chào bạn, cảm ơn vì đã click vào link này, và mình là một <mark>K16 UIT</mark>.
 about_profile_image: images/avt.jpg
 about_content:  | # this will include new lines to allow paragraphs
  Mọi người xung quanh quen với việc gọi mình là <mark>Thanh Nga</mark> 
  và nếu được bạn cũng gọi mình như thế nhé. Ngoài ra <mark>Venus</mark> 
  là tên mình sử dụng trong các tổ chức mà mình tham gia.
     - **MSSV:** 21521168
-    - **Lớp SH:** KHMT2021
     - **Ngày sinh:** 30/03/2003
     - **Địa chỉ:** Tánh Linh, Bình Thuận
-    - **Kĩ năng:** <mark>C++</mark>, <mark>Team building</mark> và *teamwork*
+    - **Kĩ năng:** <mark>C++</mark>, <mark>Team building</mark> và *teamwork*.
 content:
   - title: Lý tưởng sống
     layout: list
@@ -74,9 +66,9 @@ content:
            "Xuất phát điểm có thể thấp nhưng không thể quyết định đích đến." 
         description: | # this will include new lines to allow paragraphs
           Là trường thành viên của ĐHQG-HCM, trường ĐH CNTT có nhiệm vụ đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao, góp phần tích cực vào sự phát triển của nền công nghiệp công nghệ thông tin Việt Nam, đồng thời tiến hành nghiên cứu khoa học và chuyển giao công nghệ thông tin tiên tiến, đặc biệt là hướng vào các ứng dụng nhằm góp phần đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.
-   - title: Một chút ngoài lề nho nhỏ về mình
+  - title: Một chút ngoài lề nho nhỏ về mình
     layout: text
-    content: | # this will include new lines to allow paragraph
+    content: | # this will include new lines to allow paragraphs
       *Mỗi người có những sở thích riêng, để giết thời gian, yêu chiều bản thân hay chỉ đơn giản là kéo bản thân lên từ hố đen trống rỗng trong tâm hồn*
       - Đọc sách
       - League of legends, CS:Go
