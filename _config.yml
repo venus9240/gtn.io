@@ -49,8 +49,8 @@ content:
       - layout: left
         title: Không ngừng cải thiện
         quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+          Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng.
+       description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: Experience
     layout: list
@@ -61,7 +61,7 @@ content:
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
         quote: >
-          Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng.
+          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
