@@ -22,7 +22,7 @@ darkmode: true
 github_username:  venus9240
 facebook_username: tn9240
 instagram_username: tn_9240
-orcid_username: 0000-0000-0000-0000
+zalo_username: 0865128854
 
 # Additional icon links
 additional_links:
@@ -40,7 +40,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+# about_title: Chào bạn, cảm ơn vì đã click vào link này, và mình là Phạm Thị Nga (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
