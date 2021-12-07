@@ -49,10 +49,11 @@ content:
       - layout: left
         title: Không ngừng cải thiện
         quote: >
-          Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng.
+        "Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng."
        description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  
+  - title: Kinh nghiệm
     layout: list
     content:
       - layout: right
@@ -64,7 +65,8 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
+
+- title: Học Vấn
     layout: list
     content:
       - layout: top-right
