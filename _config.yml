@@ -42,21 +42,19 @@ about_content: | # this will include new lines to allow paragraphs
     - Ngày sinh : 30/03/2003
     - Địa chỉ : Tánh Linh, Bình Thuận
     -  Kĩ năng: <mark>C++</mark> and <mark>Team building</mark>
- content:
-  - title: Lý tưởng sống  # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Lý lịch bản thân trong sạch Phẩm chất đạo đức vững vàng Lý luận chính trị không ngừng nâng cao
-        link: github.com/venus9240
+ 
+content:
+      - layout: left
+        title: Lý tưởng sống
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
         quote: >
-          "Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng"
+          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
+          Description of role
+   
+   content:
       - layout: right
         title: Company name
         sub_title: Job title
