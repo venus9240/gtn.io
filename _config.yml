@@ -1,6 +1,6 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+# favicon: images/NgaPt.png
 
 # Content configuration version
 version: 2
@@ -32,7 +32,7 @@ instagram_username: tn_9240
 
 # About Section
 about_title:  Chào bạn, cảm ơn vì đã click vào link này, và mình là một <mark>K16 UIT</mark>.
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/avt.jpg
 about_content:  | # this will include new lines to allow paragraphs
  Mọi người xung quanh quen với việc gọi mình là <mark>Thanh Nga</mark> 
  và nếu được bạn cũng gọi mình như thế nhé. Ngoài ra <mark>Venus</mark> 
