@@ -42,11 +42,10 @@ about_content: | # this will include new lines to allow paragraphs
     - Ngày sinh : 30/03/2003
     - Địa chỉ : Tánh Linh, Bình Thuận
     -  Kĩ năng: <mark>C++</mark> and <mark>Team building</mark>
- 
 content:
-  - title: Projects 
-    layout: text
-    content: 
+  - title: Lý tưởng sống # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
