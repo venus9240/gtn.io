@@ -48,7 +48,7 @@ content:
     content: 
       - layout: left
         title: Không ngừng cải thiện
-       quote: >
+        quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
