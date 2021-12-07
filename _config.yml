@@ -38,6 +38,7 @@ about_content:  | # this will include new lines to allow paragraphs
  và nếu được bạn cũng gọi mình như thế nhé. Ngoài ra <mark>Venus</mark> 
  là tên mình sử dụng trong các tổ chức mà mình tham gia.
     - **MSSV:** 21521168
+    - **Lớp SH:** KHMT2021
     - **Ngày sinh:** 30/03/2003
     - **Địa chỉ:** Tánh Linh, Bình Thuận
     - **Kĩ năng:** <mark>C++</mark> and <mark>Team building</mark>
@@ -77,7 +78,7 @@ content:
   - title: Một chút ngoài lề nho nhỏ về mình
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Kĩ năng phụ: *Team work*, *leadership*.<br>
+      sub_title: Kĩ năng phụ: *Team work*, *leadership*.<br>
       *Mỗi người có những sở thích riêng, để giết thời gian, yêu chiều bản thân hay chỉ đơn giản là kéo bản thân lên từ hố đen trống rỗng trong tâm hồn *
       - Đọc sách
       - League of legends, CS:Go
