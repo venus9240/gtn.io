@@ -47,7 +47,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: Sống để cải thiện
+        title: Sống là không ngừng tiến bộ
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
