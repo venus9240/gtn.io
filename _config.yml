@@ -31,9 +31,9 @@ instagram_username: tn_9240
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: Chào bạn, cảm ơn vì đã click vào link này, và mình là Phạm Thị Nga
+# about_title:
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
+about_content: Chào bạn, cảm ơn vì đã click vào link này, và mình là Phạm Thị Nga | # this will include new lines to allow paragraphs
  Chào bạn, cảm ơn vì đã click vào link này, và mình là một <mark>K16 UIT</mark>. 
  Mọi người xung quanh quen với việc gọi mình là <mark>Thanh Nga</mark> 
  và nếu được bạn cũng gọi mình như thế nhé. Ngoài ra <mark>Venus</mark> 
@@ -43,7 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Địa chỉ : Tánh Linh, Bình Thuận
     -  Kĩ năng: <mark>C++</mark> and <mark>Team building</mark>
 content:
-  - title: Projects # Title for the section
+  - title: Lý tưởng sống 
     layout: list # Type of content section (list/text)
     content:
       - layout: left
