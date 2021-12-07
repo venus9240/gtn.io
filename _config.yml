@@ -31,7 +31,7 @@ instagram_username: tn_9240
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title:  **Chào bạn, cảm ơn vì đã click vào link này, và mình là một <mark>K16 UIT</mark>.**
+about_title:  Chào bạn, cảm ơn vì đã click vào link này, và mình là một <mark>K16 UIT</mark>.
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content:  | # this will include new lines to allow paragraphs
  Mọi người xung quanh quen với việc gọi mình là <mark>Thanh Nga</mark> 
@@ -43,7 +43,7 @@ about_content:  | # this will include new lines to allow paragraphs
     - **Kĩ năng:** <mark>C++</mark> and <mark>Team building</mark>
 
 content:
-  - title: **Lý tưởng sống**
+  - title: Lý tưởng sống
     layout: list
     content: 
       - layout: left
@@ -52,7 +52,7 @@ content:
           "Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng."
         description: | # this will include new lines to allow paragraphs
           Ước mơ là một chuyện, năng lực là một chuyện khác. Trên hành trình sống của mỗi cá nhân đều là đang đi tìm **phiên bản hoàn hảo nhất** của chính mình, *khẳng định được mình là ai, và mình có thể làm gì.* 
-  - title: **Trải nghiệm xã hội**
+  - title: Trải nghiệm xã hội
     layout: list
     content:
       - layout: right
@@ -63,7 +63,7 @@ content:
           "Tuổi trẻ là cháy hết mình với đam mê, cống hiến để trưởng thành."
         description: | # this will include new lines to allow paragraphs
           Với lợi thế là sự nhiệt huyết của tuổi trẻ, team chúng mình với các thành viên đủ mọi lứa tuổi luôn *sẵn sàng trong mọi tình huống, làm mọi việc có thể* với hi vọng đem đến tiếng cười và niềm vui cho những người đang thiếu. *Tuổi trẻ là cháy hết mình với đam mê, cống hiến cho cộng đồng với hi vọng phủ một gam màu tích cực lên cuộc sống đầy khó khăn thử thách.*
-  - title: **Trình độ học vấn**
+  - title: Trình độ học vấn
     layout: list
     content:
       - layout: top-right
@@ -74,7 +74,7 @@ content:
            "Xuất phát điểm có thể thấp nhưng không thể quyết định đích đến." 
         description: | # this will include new lines to allow paragraphs
           Là trường thành viên của ĐHQG-HCM, trường ĐH CNTT có nhiệm vụ đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao, góp phần tích cực vào sự phát triển của nền công nghiệp công nghệ thông tin Việt Nam, đồng thời tiến hành nghiên cứu khoa học và chuyển giao công nghệ thông tin tiên tiến, đặc biệt là hướng vào các ứng dụng nhằm góp phần đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.
-  - title: *Một chút ngoài lề nho nhỏ về mình*
+  - title: Một chút ngoài lề nho nhỏ về mình
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Kĩ năng phụ** : *Team work*, *leadership*.</p>
