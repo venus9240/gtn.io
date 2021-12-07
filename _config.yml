@@ -33,7 +33,7 @@ about_content:  | # this will include new lines to allow paragraphs
     - **MSSV:** 21521168
     - **Ngày sinh:** 30/03/2003
     - **Địa chỉ:** Tánh Linh, Bình Thuận
-    - **Kĩ năng:** <mark>C++</mark>, <mark>Team building</mark> và *teamwork*.
+    - **Kĩ năng:** <mark>C++</mark>, <mark>Team building</mark> và **teamwork**.
 content:
   - title: Lý tưởng sống
     layout: list
