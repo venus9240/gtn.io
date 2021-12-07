@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Phạm Thị Nga
-title: Sinh viên Trường Đại học Công nghệ Thông tin - ĐHQG TPHCM
+title: Computer Science | Trường ĐH Công nghệ Thông Tin - ĐHQG TPHCM
 email: 21521168@gm.uit.edu.vn
 # email_title: Email (Email title override)
 phone: 0865128854
@@ -31,19 +31,17 @@ instagram_username: tn_9240
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: Chào bạn, cảm ơn vì đã click vào link này, và mình là Phạm Thị Nga (Use this to override about section title)
+# about_title: Chào bạn, cảm ơn vì đã click vào link này, và mình là Phạm Thị Nga.
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+ Mọi người xung quanh quen với việc gọi mình là <mark>"Thanh Nga"<mark> và nếu được bạn cũng gọi mình như thế nhé. Ngoài ra <mark>"Venus"<mark> là tên mình sử dụng trong
+ các tổ chức mà mình tham gia.
+    - MSSV : 21521168
+    - Ngày sinh : 30/03/2003
+    - Địa chỉ : Tánh Linh, Bình Thuận
 
 content:
-  - title: Projects # Title for the section
+  - title: Lý tưởng sống # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
