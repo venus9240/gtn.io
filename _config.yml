@@ -45,15 +45,13 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Lý tưởng sống # Title for the section
     layout: list # Type of content section (list/text)
-    content: Cách suy nghĩ quyết định 70% đích đến 
+    content:
       - layout: left
-        title: Lý lịch bản thân trong sạch. Phẩm chất đạo đức vững vàng. Lý luận chính trị không ngừng nâng cao
+        title: Project name
         quote: >
-          "Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng"
+          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-         Ước mơ là một chuyện, năng lực là một chuyện khác. Trên hành trình sống của mỗi cá nhân đều là đang đi tìm phiên bản hoàn hảo nhất của chính mình,
-           khẳng định được mình là ai, và mình có thể làm gì. 
-
+          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
