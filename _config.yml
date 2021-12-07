@@ -45,9 +45,10 @@ content:
   - title: Lý tưởng sống 
     layout: list
     content: 
-      - layout: right
+      - layout: left
         title: Lý lịch bản thân trong sạch Phẩm chất đạo đức vững vàng Lý luận chính trị không ngừng nâng cao
-        quote: > Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng
+        quote: > 
+        Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng
         description:  Ước mơ là một chuyện, năng lực là một chuyện khác. Trên hành trình sống của mỗi cá nhân đều là đang đi tìm phiên bản hoàn hảo nhất của chính mình,
            khẳng định được mình là ai, và mình có thể làm gì. 
 
