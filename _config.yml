@@ -46,7 +46,7 @@ content:
   - title: Lý tưởng sống
     layout: list
     content: 
-      - layout: left
+      - layout: right
         title: Không ngừng cải thiện
         quote: >
           "Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng."
