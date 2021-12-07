@@ -52,7 +52,7 @@ content:
           "Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng."
         description: | # this will include new lines to allow paragraphs
           Ước mơ là một chuyện, năng lực là một chuyện khác. Trên hành trình sống của mỗi cá nhân đều là đang đi tìm phiên bản hoàn hảo nhất của chính mình, khẳng định được mình là ai, và mình có thể làm gì. 
-  - title: Kỹ năng mềm
+  - title: Trải nghiệm xã hội
     layout: list
     content:
       - layout: right
@@ -62,23 +62,29 @@ content:
         quote: >
           "Tuổi trẻ là cháy hết mình với đam mê, cống hiến để trưởng thành."
         description: | # this will include new lines to allow paragraphs
-          Với lợi thế là sự nhiệt huyết của tuổi trẻ, team chúng mình với các thành viên đủ mọi lứa tuổi sẵn sàng trong mọi tình huống, làm mọi việc có thể với hi vọng đem đến tiếng cười và niềm vui cho những người đang thiếu. Tuổi trẻ là cháy hết mình với đam mê, hoạt động vì cộng đồng để mang một gam màu tích cực cho cuộc sống.
-  - title: Education
+          Với lợi thế là sự nhiệt huyết của tuổi trẻ, team chúng mình với các thành viên đủ mọi lứa tuổi luôn *sẵn sàng trong mọi tình huống, làm mọi việc có thể* với hi vọng đem đến tiếng cười và niềm vui cho những người đang thiếu. **Tuổi trẻ là cháy hết mình với đam mê, công hiến cho cộng đồng với hi vọng phủ một gam màu tích cực lên cuộc sống đầy khó khăn thử thách.**
+  - title: Trình độ học vấn
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: VNUHCM-University of Information Technology
+        sub_title: Cử nhân ngành Khoa học Máy tính
+        caption: 2021-2025
         quote: >
-          Short institution or course description (optional)
+           Xuất phát điểm của mình thấp hơn mọi người nhưng niềm tin và sự cố gắng là thứ mình có để có thể đưa bản thân tới trạng thái học tập tốt nhất, sẵn sàng học hỏi, tiến bộ, tiếp thu kiến thức từ nhiều nguồn.
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+          Là trường thành viên của ĐHQG-HCM, trường ĐH CNTT có nhiệm vụ đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao, góp phần tích cực vào sự phát triển của nền công nghiệp công nghệ thông tin Việt Nam, đồng thời tiến hành nghiên cứu khoa học và chuyển giao công nghệ thông tin tiên tiến, đặc biệt là hướng vào các ứng dụng nhằm góp phần đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.
+  - title: Một chút ngoài lề nho nhỏ về mình 
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      **Kĩ năng phụ** : *Team work*, *leadership*.
+      Mỗi người có những sở thích riêng, để giết thời gian, yêu chiều bản thân hay chỉ đơn giản là kéo bản thân lên từ hố đen tâm hồn :
+      - Đọc sách
+      - League of legends, CS:Go
+      - Tìm hiểu về vũ trụ, thiên hà
+      - Nghiên cứu tâm lý học hành vi
+      
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
