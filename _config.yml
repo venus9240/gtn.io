@@ -31,10 +31,11 @@ instagram_username: tn_9240
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# About_title:  Thông tin cơ bản
-About_profile_image: Directory of profile image (eg. images/profile.jpg)
-About_content: | # this will include new lines to allow paragraphs
-Chào bạn, cảm ơn vì đã click vào link này, và mình là một <mark>K16 UIT</mark>. Mọi người xung quanh quen với việc gọi mình là <mark>Thanh Nga</mark> 
+# about_title: Chào bạn, cảm ơn vì đã click vào link này, và mình là Phạm Thị Nga
+about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_content: | # this will include new lines to allow paragraphs
+ Chào bạn, cảm ơn vì đã click vào link này, và mình là một <mark>K16 UIT</mark>. 
+ Mọi người xung quanh quen với việc gọi mình là <mark>Thanh Nga</mark> 
  và nếu được bạn cũng gọi mình như thế nhé. Ngoài ra <mark>Venus</mark> 
  là tên mình sử dụng trong các tổ chức mà mình tham gia.
     - MSSV : 21521168
