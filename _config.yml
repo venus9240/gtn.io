@@ -47,7 +47,7 @@ content:
     layout: list
     content: 
       - layout: left
-        title: MATAOTUK
+        title: Không ngừng cải thiện
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
