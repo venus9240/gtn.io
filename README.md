@@ -20,8 +20,8 @@
 # Trình độ học vấn
  ## VNUHCM-University of Information Technology
  **Cử nhân ngành Khoa học Máy tính**
- *2021-2025*
- *"Xuất phát điểm có thể thấp nhưng không thể quyết định đích đến."*
+ *2021-2025* </p>
+ *"Xuất phát điểm có thể thấp nhưng không thể quyết định đích đến."*</p>
      Là trường thành viên của ĐHQG-HCM, trường ĐH CNTT có nhiệm vụ đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao, góp phần tích cực vào sự phát triển của nền công nghiệp công nghệ thông tin Việt Nam, đồng thời tiến hành nghiên cứu khoa học và chuyển giao công nghệ thông tin tiên tiến, đặc biệt là hướng vào các ứng dụng nhằm góp phần đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.
 # Một chút ngoài lề nho nhỏ về mình
  *Mỗi người có những sở thích riêng, để giết thời gian, yêu chiều bản thân hay chỉ đơn giản là kéo bản thân lên từ hố đen trống rỗng trong tâm hồn* </p>
