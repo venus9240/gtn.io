@@ -1,169 +1,84 @@
-# modern-resume-theme [![Gem Version](https://badge.fury.io/rb/modern-resume-theme.svg)](https://badge.fury.io/rb/modern-resume-theme) ![CI workflow](https://github.com/sproogen/modern-resume-theme/workflows/CI%20workflow/badge.svg?branch=master)
-
-*A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.*  
-*Host your own resume on GitHub for **free!***
-
-[View Demo](https://sproogen.github.io/modern-resume-theme/)
-
-----
-
-## Announcements
-
- - **Nov 2020** - Content configuration version 2 released. Added a new more configurable way of adding data to the resume. Add as many content sections as you like in what ever order you want. Currently just *text* and *list* but future categories coming soon.
-Full backwards compatibilty with version 1 remains and the documentation for version 1 can be found [here (Version 1 Readme)](https://github.com/sproogen/modern-resume-theme/blob/1.x/README.md).
-
- - **Dec 2019** - Now includes **Dark Mode**
-
-----
-
-![img](screenshot.png)
-
-Thank you for checking out my resume theme / template. If you have any feedback or suggestions for things I can add please let me know by by raising an [issue](https://github.com/sproogen/modern-resume-theme/issues/new/choose), I'm always happy to help.
-
-I always enjoy seeing how people are using my creations and if you would like to say thanks feel free to [buy me a coffee (buymeacoffee.com/vJ6HfLu)](https://buymeacoff.ee/vJ6HfLu).
-
-If you would like to see how I am using this then you can view my resume [here (jameswgrant.co.uk)](http://www.jameswgrant.co.uk/) and find the code [here (sproogen/jameswgrant)](https://github.com/sproogen/jameswgrant), hopefully this might help you.
-
-You can view the project [roadmap here](https://github.com/sproogen/modern-resume-theme/projects/1).
-
-----
-
-## Installation & setup guide
-This template is designed to be hosted using GitHub pages and so that's what these instructions will cover. If you plan on hosting it seperately then there might be some extra steps that we wont cover.
-
-Before starting it might be useful to familiarise yourself with [Jekyll](https://jekyllrb.com/docs/home/), [Markdown](https://www.markdownguide.org/getting-started) and [GitHub pages](https://pages.github.com/).
-
-### Step 1 - GitHub
-Start by creating an account on [GitHub](https://github.com/join)
-
-### Step 2 - Create Repository
-Create a repository on GitHub to hold your files and host your resume. You can find out how to do that [here](https://pages.github.com/)
-
-### Step 3 - Download Resume Template
-Download and extract the following zip into the git repository you have just created. [resume-template.zip](https://github.com/sproogen/modern-resume-theme/archive/gh-pages.zip)
-
-### Step 4 - Push it
-Commit and push the resume template to github
-```
-$ git add --all
-$ git commit -m "Initial resume setup"
-$ git push -u origin master
-```
-### Step 5 - See it
-You should now be able to see the demo resume template using this theme at `[your-username].github.io`
-
-----
-
-## Usage
-
-So now you will be able to see the demo template at your github URL. You can can edit the yml files and replace the demo content with your own. Hopefully it will be fairly simple to work out where all the content goes, but here is a quick overview.
-
-### `_config.yml`
-This will contain all the of the main configuration for your resume such as your name, email, social media links and about me content. It also contains all the content for your resume.  
-A full example of the _config.yml can be found [here](https://github.com/sproogen/modern-resume-theme/blob/master/_config.yml)
-
-#### Content
-The main content for you resume will all come under the content property in the `_config.yml` file. This can be quite complex and a good understanding on [YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) will be helpful here.
-
-Content will contain an array of sections, there are currently 2 types of layouts for content sections, text and list.
-
-**text** is a basic layout that contains markdown content.  
-**list** is a the standard layout that is used for things like *Education* and *Experience*.
-
-Below is a the full list of content options.
-```
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+favicon: images/icon.png
+# Content configuration version
+version: 2
+# Personal info
+name: Phạm Thị Nga
+title: Computer Science | Trường ĐH Công nghệ Thông Tin - ĐHQG TPHCM
+email: 21521168@gm.uit.edu.vn
+# email_title: Email (Email title override)
+phone: +84 651 288 54
+# phone_title: Phone (Phone title override)
+website: https://github.com/venus9240/
+# website_title: Web (Website title override)
+# Dark Mode (true/false/never)
+darkmode: false
+# Social links
+github_username:  venus9240
+facebook_username: R9240
+instagram_username: tn_9240
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+# About Section
+about_title:  Chào bạn, cảm ơn vì đã click vào link này, và mình là một <mark>K16 UIT</mark>
+about_profile_image: images/avt.jpg
+about_content:  | # this will include new lines to allow paragraphs
+ Mọi người xung quanh quen với việc gọi mình là <mark>Thanh Nga</mark> 
+ và nếu được bạn cũng gọi mình như thế nhé. Ngoài ra <mark>Venus</mark> 
+ là tên để mình sử dụng trong các tổ chức mà mình tham gia.
+    - **MSSV:** 21521168
+    - **Ngày sinh:** 30/03/2003
+    - **Địa chỉ:** Tánh Linh, Bình Thuận
+    - **Kĩ năng:** <mark>C++</mark>, <mark>Team building</mark> và **Teamwork**.
 content:
-  - title: Section Name
-    layout: list (options: list, text)
-    content:
-      - layout: left (options: left, right, top, top-right, top-middle)(default: left)
-        title: Name of item (eg. Company or Project name)
-        sub_title: Sub title (eg. Qualification or Job title)(optional)
-        caption: Item caption (eg. Employment or course dates)(optional)
-        link: Web link (eg. https://sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Text for link (optional: without this link will show URL as link text)
-        additional_links: (optional)
-          - title: Link name
-            icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-            url: Link url (eg. https://google.com)
+  - title: Lý tưởng sống
+    layout: list
+    content: 
+      - layout: left
+        title: Không ngừng cải thiện
         quote: >
-          Short overview or quote for the item
+          "Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng."
         description: | # this will include new lines to allow paragraphs
-          Main content area for the list item.
-  - title: Section Name
-    layout: text (options: list, text)
+          Ước mơ là một chuyện, năng lực là một chuyện khác. Trên hành trình sống của mỗi cá nhân đều là đang đi tìm **phiên bản hoàn hảo nhất** của chính mình, khẳng định được mình là ai, và mình có thể làm gì.
+  - title: Trải nghiệm xã hội
+    layout: list
+    content:
+      - layout: left
+        title: Team building
+        sub_title: Hoạt động xã hội & tổ chức chương trình khoá tu
+        caption: 2017 và sẽ tới khi không còn có thể
+        quote: >
+          "Tuổi trẻ là cháy hết mình với đam mê, cống hiến để trưởng thành."
+        description: | # this will include new lines to allow paragraphs
+          Với lợi thế là sự nhiệt huyết của tuổi trẻ, team chúng mình với các thành viên đủ mọi lứa tuổi luôn *sẵn sàng trong mọi tình huống, làm mọi việc có thể* với hi vọng đem đến tiếng cười và niềm vui cho những người đang thiếu. Tuổi trẻ là cháy hết mình với đam mê, cống hiến cho cộng đồng với hi vọng phủ một gam màu tích cực lên cuộc sống đầy khó khăn thử thách.
+  - title: Trình độ học vấn
+    layout: list
+    content:
+      - layout: left
+        title: VNUHCM-University of Information Technology
+        sub_title: Cử nhân ngành Khoa học Máy tính
+        caption: 2021-2025
+        quote: >
+           "Xuất phát điểm có thể thấp nhưng không thể quyết định đích đến." 
+        description: | # this will include new lines to allow paragraphs
+          Là trường thành viên của ĐHQG-HCM, trường ĐH CNTT có nhiệm vụ đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao, góp phần tích cực vào sự phát triển của nền công nghiệp công nghệ thông tin Việt Nam, đồng thời tiến hành nghiên cứu khoa học và chuyển giao công nghệ thông tin tiên tiến, đặc biệt là hướng vào các ứng dụng nhằm góp phần đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.
+  - title: Một chút ngoài lề nho nhỏ về mình
+    layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-```
-
-***Note:** The description or content areas (fields starting with `| #`) use markdown, this means that you have the ability to format the section in many different ways and add things such as images, code & syntax highlighting and tables. You can find a good [Markdown cheatsheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)*
-
-#### Additional links
-If you would like to add more than the predefined social links in the config file, then you can use the `additional_links` field to add as many additional links with urls and font awesome icons as you wish.
-
-#### Dark Mode
-Dark mode is configured via `_config.yml`  
-```
-darkmode: true (options: true, false, never)
-```
-When dark mode is `true` the site will show the dark theme for everyone  
-When dark mode is `false` the site will not show the dark theme, but it will still respect the users device preferences  
-When dark mode is `never` the site will never be shown in the dark theme
-
-### `assets/main.scss`
-Add any css changes or additions you want to make here after the line `@import 'modern-resume-theme';`
-
-----
-
-## Running locally
-
-Before you start make sure you have *Ruby* and the gems for *Jekyll* installed locally. You can find out how to do that [here](https://jekyllrb.com/docs/installation/).
-
-1. Clone your resume repository locally *(if you haven't already)*
-2. `cd [your-repository-name]`
-3. `bundle install`
-4. `bundle exec jekyll serve`
-5. Open your browser to `http://localhost:4000`
-
-Any changes you make will automatically build and you will be able to see these by refreshing your browser.
-
-*Note: You will need to re-run `bundle exec jekyll serve` to see changes made in `_config.yml`.*
-
-----
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/sproogen/modern-resume-theme. You can view our full guide to contributing [here](https://github.com/sproogen/modern-resume-theme/blob/master/CONTRIBUTING.md)
-This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-----
-
-## Development
-
-### Locally
-
-Before you start make sure you have *Ruby* and the gems for *Jekyll* installed locally. You can find out how to do that [here](https://jekyllrb.com/docs/installation/).
-
-*Note: You will need version `1.15.2` of bundler, as this is the only version that Heroku supports.*
-
-1. Fork and or clone this repository locally
-2. `cd modern-resume-theme`
-3. `bundle install`
-4. `bundle exec jekyll serve`
-5. Open your browser to `http://localhost:4000`
-
-Any changes you make will automatically build and you will be able to see these by refreshing your browser. To find out more about *Jekyll* take a look [here](https://jekyllrb.com/docs/usage/).
-
-***Note:** You will need to re-run `bundle exec jekyll serve` to see changes made in `_config.yml`.*
-
-### Docker
-
-If you have docker installed you can simply run `docker-compose up` to launch the site in a container, it will then be hosted at `http://localhost:4000`
-
-----
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+      *Mỗi người có những sở thích riêng, để giết thời gian, yêu chiều bản thân hay chỉ đơn giản là kéo bản thân lên từ hố đen trống rỗng trong tâm hồn*
+      - Đọc sách
+      - League of legends, CS:Go
+      - Tìm hiểu về vũ trụ, thiên hà
+      - Nghiên cứu tâm lý học hành vi
+      
+      
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
