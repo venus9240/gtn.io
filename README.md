@@ -1,29 +1,21 @@
-# Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+
 favicon: images/icon.png
-# Content configuration version
 version: 2
-# Personal info
+
 name: Phạm Thị Nga
 title: Computer Science | Trường ĐH Công nghệ Thông Tin - ĐHQG TPHCM
 email: 21521168@gm.uit.edu.vn
-# email_title: Email (Email title override)
+
 phone: +84 651 288 54
-# phone_title: Phone (Phone title override)
+
 website: https://github.com/venus9240/
-# website_title: Web (Website title override)
-# Dark Mode (true/false/never)
+
 darkmode: false
-# Social links
+
 github_username:  venus9240
 facebook_username: R9240
 instagram_username: tn_9240
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-# About Section
+
 about_title:  Chào bạn, cảm ơn vì đã click vào link này, và mình là một <mark>K16 UIT</mark>
 about_profile_image: images/avt.jpg
 about_content:  | # this will include new lines to allow paragraphs
@@ -75,10 +67,4 @@ content:
       - Tìm hiểu về vũ trụ, thiên hà
       - Nghiên cứu tâm lý học hành vi
       
-      
-# Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
