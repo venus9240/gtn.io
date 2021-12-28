@@ -30,3 +30,7 @@
       - League of legends, CS:Go </p>
       - Tìm hiểu về vũ trụ, thiên hà </p>
       - Nghiên cứu tâm lý học hành vi </p>
+# Cách thức liên lạc:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/R9240)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:21521168@gm.uit.edu.vn)
+[![Instagram](https://img.shields.io/badge/<tn_9240>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tn_9240/)
