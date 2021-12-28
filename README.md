@@ -1,12 +1,13 @@
 # Chào bạn, cảm ơn vì đã click vào link này, và mình là một `K16 UIT`
-<img align="right" alt="GIF" height="250px" src="https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/258758182_652614785779033_1581177798696762685_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BrWt5Ylub-MAX-rHvr2&_nc_ht=scontent.fdad3-5.fna&oh=00_AT8KY3hiCiKevJc0wRe0II_yeHxWV0fUvQqSoTbdIwv1HA&oe=61D10948" />
  Mọi người xung quanh quen với việc gọi mình là **Thanh Nga**
  và nếu được bạn cũng gọi mình như thế nhé. Ngoài ra **Venus**
  là tên để mình sử dụng trong các tổ chức mà mình tham gia.</p>
+<img align="right" alt="GIF" height="200px" src="https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/258758182_652614785779033_1581177798696762685_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BrWt5Ylub-MAX-rHvr2&_nc_ht=scontent.fdad3-5.fna&oh=00_AT8KY3hiCiKevJc0wRe0II_yeHxWV0fUvQqSoTbdIwv1HA&oe=61D10948" />
     - **MSSV:** 21521168 </p>
     - **Ngày sinh:** 30/03/2003</p>
     - **Địa chỉ:** Tánh Linh, Bình Thuận</p>
     - **Kĩ năng:** `C++`, `Team building`và **Teamwork**.</p>
+   
 # Lý tưởng sống
 *"Nếu mình nghĩ mình là cá mập thì phải bơi ngoài đại dương, cá ngừ, cá kiếm thì ngoài biển, cá rô, cá chép thì ra sông mà vẫy vùng."*</p>
  - Ước mơ là một chuyện, năng lực là một chuyện khác. Trên hành trình sống của mỗi cá nhân đều là đang đi tìm **phiên bản hoàn hảo nhất** 
